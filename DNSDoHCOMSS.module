@@ -1,0 +1,5 @@
+#!name=DNS DoH Comss
+#!desc=Comms DNS for ShadowRocket
+
+[General]
+dns-server = https://dns.comss.one/dns-query
