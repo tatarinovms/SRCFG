@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/tatarinovms/SRCFG/master/DNSDoHCOMSS.module
+#!url=https://raw.githubusercontent.com/tatarinovms/SRCFG/master/modules/comssdns.module
 #!name=DNS DoH Comss
 #!desc=Comms DNS for ShadowRocket
 #!icon=https://www.comss.ru/favicon.svg
