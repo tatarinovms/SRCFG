@@ -1,5 +1,6 @@
+#!url=https://raw.githubusercontent.com/tatarinovms/SRCFG/master/DNSDoHCOMSS.module
 #!name=DNS DoH Comss
 #!desc=Comms DNS for ShadowRocket
-
+#!icon=https://www.comss.ru/favicon.svg
 [General]
 dns-server = https://dns.comss.one/dns-query
