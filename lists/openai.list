@@ -1,36 +1,62 @@
-DOMAIN,browser-intake-datadoghq.com
+#Основные домены OpenAI
+DOMAIN,ab.chatgpt.com
+DOMAIN,api.openai.com
+DOMAIN,arena.openai.com
+DOMAIN,auth.openai.com
+DOMAIN,beta.openai.com
+DOMAIN,blog.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,community.openai.com
+DOMAIN,contest.openai.com
+DOMAIN,debate-game.openai.com
+DOMAIN,discuss.openai.com
+DOMAIN,gym.openai.com
+DOMAIN,help.openai.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,jukebox.openai.com
+DOMAIN,labs.openai.com
+DOMAIN,microscope.openai.com
+DOMAIN,platform.openai.com
+DOMAIN,spinningup.openai.com
+DOMAIN,universe.openai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,openai.fund
+DOMAIN,openai.org
+DOMAIN-SUFFIX,chatgpt.com
+#CDN и хостинг (статика, медиа, файлы)
+DOMAIN,cdn.oaistatic.com
+DOMAIN,cdn.openai.com
+DOMAIN,oaistatic.com
+DOMAIN,files.oaiusercontent.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,gemini.google.com
-DOMAIN,openai-api.arkoselabs.com
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,static.cloudflareinsights.com
+#Аутентификация и авторизация
+DOMAIN-SUFFIX,auth0.com
+DOMAIN,identrust.com
+#Аналитика, метрики, мониторинг
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,sentry.io
+DOMAIN,segment.io
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+#Безопасность и антибот-защита
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,client-api.arkoselabs.com
+#Чаты, видеосвязь, коммуникации
+DOMAIN-SUFFIX,livekit.cloud
+#Платформы и CDN сторонних провайдеров
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN,datadoghq.com
+DOMAIN-SUFFIX,cloudflare.net
+#Общие внешние зависимости (не специфичные для OpenAI)
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,api.statsig.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-KEYWORD,openai
-IP-CIDR,24.199.123.28/32
-IP-CIDR,64.23.132.171/32
-IP-ASN,20473
