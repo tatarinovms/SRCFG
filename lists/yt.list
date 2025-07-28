@@ -30,3 +30,5 @@ DOMAIN-SUFFIX,ggpht.cn
 # Ключевые слова (если нужна более широкая фильтрация)
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,yt3.googleusercontent.com
+DOMAIN-KEYWORD,googleusercontent.com
