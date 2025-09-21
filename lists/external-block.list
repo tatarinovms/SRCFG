@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,rutracker.org
+DOMAIN-KEYWORD,rutracker
 DOMAIN-SUFFIX,tapochek.net
 DOMAIN-SUFFIX,thelastgame.ru
 DOMAIN-SUFFIX,nnmclub.to
@@ -6,8 +6,7 @@ DOMAIN-SUFFIX,nnm-club.to
 DOMAIN-SUFFIX,nnm-club.me
 DOMAIN-SUFFIX,revenucat.com
 DOMAIN-SUFFIX,datadoghq.com
-DOMAIN-SUFFIX,flibusta.net
-DOMAIN-SUFFIX,flibusta.is
+DOMAIN-KEYWORD,flibusta
 DOMAIN-SUFFIX,jetbrans.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,adobe.com
