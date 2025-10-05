@@ -60,3 +60,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,searchgpt.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,webrtc.chatgpt.com
