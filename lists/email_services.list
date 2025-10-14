@@ -1,0 +1,13 @@
+# Microsoft Outlook / Office 365 Email Services
+DOMAIN-SUFFIX,smtp-mail.outlook.com
+DOMAIN-SUFFIX,imap-mail.outlook.com
+DOMAIN-SUFFIX,pop-mail.outlook.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,graph.microsoft.com
