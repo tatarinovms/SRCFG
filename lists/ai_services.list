@@ -35,9 +35,14 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,cdn.openai.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
-#Общие внешние зависимости (не специфичные для OpenAI)
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,searchgpt.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,webrtc.chatgpt.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,kaleido.ai
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,recraft.ai
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,grok.com
