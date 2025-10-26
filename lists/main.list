@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 # Видео и медиа
 # YouTube
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtube.ru
 DOMAIN-SUFFIX,youtu.be
@@ -47,7 +48,10 @@ DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,zona.media
 DOMAIN-KEYWORD,deezer
-DOMAIN-KEYWORD,soundcloud
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*
 DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,unsplash
@@ -85,7 +89,20 @@ DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,harvestapp.com
 DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,datalore.io
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,intellij.com
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,intellij.org
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.io
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.team
+DOMAIN-SUFFIX,kotlinconf.com
+DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,notionusercontent.com
