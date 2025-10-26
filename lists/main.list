@@ -46,6 +46,10 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,pocketcasts.com
+DOMAIN-SUFFIX,pcdn.co
+DOMAIN-SUFFIX,analytics.pocketcasts.com
+USER-AGENT,*Pocket Casts*
+USER-AGENT,com.shiftyjelly.pocketcasts*
 DOMAIN-SUFFIX,zona.media
 DOMAIN-KEYWORD,deezer
 DOMAIN-SUFFIX,p-cdn.us
