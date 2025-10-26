@@ -1,8 +1,10 @@
 # Социальные сети и мессенджеры
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,viber
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
