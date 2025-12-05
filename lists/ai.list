@@ -8,8 +8,13 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,openai.fund
 DOMAIN,openai.org
+# Основные домены
+DOMAIN,chat.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 # Google AI / Gemini / DeepMind
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,generativeai.google
@@ -43,3 +48,17 @@ DOMAIN,webrtc.chatgpt.com
 DOMAIN,ios.chat.openai.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
+# CDN & API
+DOMAIN,openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+# Tracking
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
+DOMAIN,browser-intake-datadoghq.com
+# Advanced Voice
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,host.livekit.cloud
+DOMAIN,turn.livekit.cloud
