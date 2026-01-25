@@ -89,7 +89,7 @@ DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,security.id.supercell.com
 # Продуктивность и инструменты
-DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-KEYWORD,adguard
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canva.dev
