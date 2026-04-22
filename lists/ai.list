@@ -62,6 +62,18 @@ DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercomcdn.com
 # Прочее
 DOMAIN-SUFFIX,cloudfunctions.net
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,datadoghq.com
 # Специфичные поддомены
 DOMAIN,ab.chatgpt.com
 DOMAIN,webrtc.chatgpt.com
