@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,vk-cdn.net
 DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,dzeninfra.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,vkuserphoto.ru
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,yastatic.net
 # Mail.ru
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
