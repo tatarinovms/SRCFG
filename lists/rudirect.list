@@ -1,0 +1,44 @@
+# VK
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+# Mail.ru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+# Yandex
+DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.ru
+# Покрывает все региональные yandex.*
+DOMAIN-KEYWORD,yandex
+# Банки
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,vtb.ru
+# Государственные сервисы
+DOMAIN-SUFFIX,avtodor-tr.ru
+DOMAIN-SUFFIX,fssp.gov.ru
+DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosreg.ru
+DOMAIN-SUFFIX,mvd.ru
+DOMAIN-SUFFIX,nalog.ru
+DOMAIN-SUFFIX,rosreestr.gov.ru
+# Системные и прочие
+DOMAIN-SUFFIX,oneme.ru
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,trace-flow.ru
