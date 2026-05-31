@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 # Видео и медиа
 # YouTube
+
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtube.ru
@@ -87,6 +88,8 @@ DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pca.st
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,pcdn.co
+DOMAIN-SUFFIX,radio-t.com
+DOMAIN-SUFFIX,hobbytalks.org
 DOMAIN-SUFFIX,analytics.pocketcasts.com
 USER-AGENT,*Pocket Casts*
 USER-AGENT,com.shiftyjelly.pocketcasts*
