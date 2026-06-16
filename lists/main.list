@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,analytics.pocketcasts.com
 USER-AGENT,*Pocket Casts*
 USER-AGENT,com.shiftyjelly.pocketcasts*
 DOMAIN-SUFFIX,zona.media
+DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-KEYWORD,deezer
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
@@ -297,3 +298,5 @@ DOMAIN-SUFFIX,sketchup.com
 DOMAIN-SUFFIX,trimble.com
 # Google Play
 DOMAIN-SUFFIX,googleplay.com
+DOMAIN,api.teleos.club
+DOMAIN-SUFFIX,m.alador.space
