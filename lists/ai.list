@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercomcdn.com
@@ -76,12 +77,14 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pollo.ai
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,recraft.ai
+DOMAIN-SUFFIX,scira.ai
 DOMAIN-SUFFIX,searchgpt.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,t3.chat
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,unscreen.com
 DOMAIN-SUFFIX,withgoogle.com
